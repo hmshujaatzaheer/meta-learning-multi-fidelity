@@ -1,3 +1,7 @@
+# ============================================
+# RQ1: Meta-Multi-Fidelity Learning
+# ============================================
+
 """
 MAML-MF: Model-Agnostic Meta-Learning for Multi-Fidelity Optimization
 
@@ -122,4 +126,3 @@ class MAMLOptimizer:
         """Load pre-trained MAML model"""
         # Placeholder - to be implemented during PhD
         pass
-
