@@ -169,7 +169,7 @@ meta-learning-multi-fidelity/
 
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/meta-learning-multi-fidelity.git
+git clone https://github.com/[hmshujaatzaheer]/meta-learning-multi-fidelity.git
 cd meta-learning-multi-fidelity
 
 # Create conda environment
@@ -324,7 +324,7 @@ If you use this framework in your research, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/[your-username]/meta-learning-multi-fidelity}}
+  howpublished = {\url{https://github.com/[hmshujaatzaheer]/meta-learning-multi-fidelity}}
 }
 ```
 
@@ -334,9 +334,8 @@ If you use this framework in your research, please cite:
 
 **H M Shujaat Zaheer**  
 PhD Applicant - Meta-Learning & Multi-Fidelity Optimization  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn]  
-Website: [Your Website]
+Email: [shujabis.com]  
+
 
 ---
 
