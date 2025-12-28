@@ -1,1 +1,14 @@
-
+{
+  "domain": "aerospace",
+  "fidelities": ["cfd", "wind_tunnel", "flight_test"],
+  "costs": [1.0, 5000.0, 50000.0],
+  "samples": [
+    {
+      "design": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      "lift": 0.85,
+      "drag": 0.025,
+      "fidelity": "cfd"
+    }
+  ],
+  "note": "Placeholder data - to be replaced with real experiments"
+}
