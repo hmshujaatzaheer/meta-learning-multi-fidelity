@@ -1,1 +1,45 @@
+# Core dependencies for Meta-Learning Multi-Fidelity Optimization
 
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Bayesian Optimization
+gpytorch>=1.9.0
+botorch>=0.8.0
+
+# Causal Inference
+networkx>=3.0
+pgmpy>=0.1.19
+
+# Optimization
+scikit-learn>=1.2.0
+scikit-optimize>=0.9.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+jupyter>=1.0.0
+
+# Testing
+pytest>=7.3.0
+pytest-cov>=4.0.0
+
+# Documentation
+sphinx>=6.0.0
+sphinx-rtd-theme>=1.2.0
+
+# Optional (for specific experiments)
+# pybullet>=3.2.5  # Robotics simulations
+# rdkit>=2023.3.1  # Materials/chemistry
+# openfoam  # CFD (install separately)
