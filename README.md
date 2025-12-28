@@ -334,7 +334,7 @@ If you use this framework in your research, please cite:
 
 **H M Shujaat Zaheer**  
 PhD Applicant - Meta-Learning & Multi-Fidelity Optimization  
-Email: [shujabis.com]  
+Email: [shujabis@gmail.com]  
 
 
 ---
