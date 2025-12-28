@@ -1,1 +1,14 @@
-
+{
+  "domain": "robotics",
+  "fidelities": ["rigid_sim", "deformable_sim", "real_robot"],
+  "costs": [0.003, 1.0, 500.0],
+  "samples": [
+    {
+      "design": [0.5, 0.3, 0.8, 0.2, 0.6, 0.4, 0.7, 0.1, 0.9, 0.5],
+      "success_rate": 0.75,
+      "completion_time": 12.5,
+      "fidelity": "rigid_sim"
+    }
+  ],
+  "note": "Placeholder data - to be replaced with real experiments"
+}
