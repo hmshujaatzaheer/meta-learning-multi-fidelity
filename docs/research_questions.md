@@ -1,7 +1,3 @@
-# ============================================
-# FILE 1: docs/research_questions.md
-# ============================================
-
 # Research Questions
 
 This document details the five research questions addressed by this PhD research.
