@@ -44,9 +44,8 @@ After initial publications and with supervisor approval, we may welcome:
 For questions about this research, please contact:
 
 **H M Shujaat Zaheer**  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [@your-username](https://github.com/your-username)
+Email: [shujabis@gmail.com]  
+GitHub: [@your-username](https://github.com/hmshujaatzaheer)
 
 ---
 
