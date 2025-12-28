@@ -1,1 +1,26 @@
+name: meta-mf
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
 
+dependencies:
+  - python=3.10
+  - pytorch>=2.0.0
+  - torchvision
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+      - gpytorch>=1.9.0
+      - botorch>=0.8.0
+      - networkx>=3.0
+      - pgmpy>=0.1.19
+      - tqdm
+      - pytest
+      - pyyaml
